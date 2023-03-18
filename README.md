@@ -64,3 +64,9 @@ I'm trainee/junior Python software engineer who are starting his journey in a ma
 <a href="https://github.com/Teneram">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </a>&nbsp;&nbsp;
+<a href="https://docs.pytest.org/en/latest/">
+    <img src="https://img.shields.io/badge/pytest-373?style=for-the-badge&logo=pytest&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://docs.python.org/3/library/unittest.html">
+    <img src="https://img.shields.io/badge/unittest-FFC107?style=for-the-badge&logo=python&logoColor=white" />
+</a>&nbsp;&nbsp;
